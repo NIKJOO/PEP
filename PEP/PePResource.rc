@@ -1,0 +1,3 @@
+english RCDATA "Store\\english.uil"
+russian RCDATA "Store\\russian.uil"
+store RCDATA "Store\\store.in"
